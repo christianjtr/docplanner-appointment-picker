@@ -8,7 +8,7 @@ Basic assessment that contains a daily-slot-picker generated from a range of dat
 
 ## Demo
 
-![](video/video.mov)
+![](video/video.gif)
 
 Click on the following link (Github page project):
 
