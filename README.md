@@ -51,7 +51,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## Clone the repository:
 
 ```shell
-git clone https://github.com/christianjtr/oompa-list-crew.git
+git clone https://github.com/christianjtr/docplanner-appointment.git
 ```
 
 ## Technologies
