@@ -14,11 +14,6 @@ const routes = [
     name: 'Home',
     component: Home,
   },
-  {
-    path: '/appointment-success',
-    name: 'Home',
-    component: Home,
-  },
 ];
 
 const router = new VueRouter({
