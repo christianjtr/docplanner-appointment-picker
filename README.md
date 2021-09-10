@@ -12,7 +12,7 @@ Basic assessment that contains a daily-slot-picker generated from a range of dat
 
 Click on the following link (Github page project):
 
-https://christianjtr.github.io/docplanner-appointment
+https://christianjtr.github.io/docplanner-appointment-picker
 
 ## Installation and running the project
 
